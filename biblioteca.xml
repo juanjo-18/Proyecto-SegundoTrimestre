@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="biblioteca.xsl"?>
+<biblioteca>
+  <libro>
+    <foto>miki.webp</foto>
+    <titulo>Tengo sueño</titulo>
+    <autor>Miki</autor>
+    <fechaPublicacion año="1976"/>
+  </libro>
+  <libro>
+    <foto>senda.webp</foto>
+    <titulo>Estoy dormido</titulo>
+    <autor fechaNacimiento="28/03/1936">Senda</autor>
+    <fechaPublicacion año="1973"/>
+  </libro>
+  <libro>
+    <foto>summer.webp</foto>
+    <titulo>Te estoy vigilando</titulo>
+    <autor fechaNacimiento="28/03/1936">Summer</autor>
+    <fechaPublicacion año="1969"/>
+  </libro>
+</biblioteca>
